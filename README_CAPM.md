@@ -41,16 +41,7 @@ def daily_return(df):
   return df_daily_return
 
 Calculate beta and alpha
-Example:
-beta:
-{'AAPL': 1.1128924148678099,
- 'AMZN': 0.9917345712576846,
- 'BA': 1.3828672010892775,
- 'GOOG': 1.034881768742856,
- 'IBM': 0.9604149148095245,
- 'MGM': 1.653567706518011,
- 'T': 0.7446293454747844,
- 'TSLA': 1.2686150101095908}
+
 ------
 
 To-do list:
